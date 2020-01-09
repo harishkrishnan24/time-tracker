@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "710212463077",
+    "firebase_url": "https://time-tracker-d070e.firebaseio.com",
+    "project_id": "time-tracker-d070e",
+    "storage_bucket": "time-tracker-d070e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710212463077:android:e206b6c5aa8a57e4ba270c",
+        "android_client_info": {
+          "package_name": "com.codingwithflutter.time_tracker_flutter_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710212463077-h2m47eoq0inh5lr2q5jauuh96v1g8v3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithflutter.time_tracker_flutter_course",
+            "certificate_hash": "149e0b5db290058e9bdd025f83943b43e093c7ca"
+          }
+        },
+        {
+          "client_id": "710212463077-9o8mioecds1tvf8ahsurosj8qat3mgtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithflutter.time_tracker_flutter_course",
+            "certificate_hash": "bde4c34765a0917f3d8e8abcad88f53218fea3e1"
+          }
+        },
+        {
+          "client_id": "710212463077-jpnkmvsnh0v9vsjhokgs37f41v3fpnmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8VtA3NxTFBVXTH6rsPOf7WMPQra7cjNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710212463077-jpnkmvsnh0v9vsjhokgs37f41v3fpnmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
